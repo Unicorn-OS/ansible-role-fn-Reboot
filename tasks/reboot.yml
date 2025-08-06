@@ -1,3 +1,4 @@
+---
 - name: Reboot manually
   debug:
     msg: "You must reboot manually and then run this Role again - if localhost"
